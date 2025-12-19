@@ -1,6 +1,6 @@
-# 🦖 Dino Phat Dev
-
 <div align="center">
+
+# 🦖 Dino Phat Dev
 
 ```
 ██████╗ ██╗███╗   ██╗ ██████╗     ██████╗ ██╗  ██╗ █████╗ ████████╗    ██████╗ ███████╗██╗   ██╗
@@ -11,43 +11,47 @@
 ╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝     ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝       ╚═════╝ ╚══════╝  ╚═══╝  
 ```
 
-</div>
+<br>
 
-<div align="center">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=🎮+Gamer+%7C+💻+Developer;Code.+Game.+Repeat.+♾️;Building+Pixel+Perfect+Apps+✨;Level+Up+Every+Day!+🚀)
 
-### 🎮 Gamer | 💻 Developer | 🦖 Dino Enthusiast
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Code+%7C+Game+%7C+Repeat;Building+Pixel+Perfect+Apps;Level+Up+Every+Day)](https://git.io/typing-svg)
-
-</div>
+<br>
 
 ---
 
-## 📫 Connect
+### 🎯 About Me
 
-<div align="center">
+**`Passionate Gamer & Developer from Vietnam 🇻🇳`**
 
-```
-┌─────────────────────────────────────┐
-│  [PRESS START TO CONNECT]           │
-└─────────────────────────────────────┘
-```
+I love building cool stuff and playing awesome games. Always learning, always gaming! 🦖
+
+<br>
+
+---
+
+### 📫 Let's Connect!
+
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dinophatdev)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/p3d7859xFF)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinopeo280@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinopeo280@gmail.com)
 
-</div>
+<br>
 
 ---
 
-<div align="center">
+<br>
 
 ```
-╔═══════════════════════════════════════╗
-║  Thanks for visiting! 🦖              ║
-║  Keep coding, keep gaming! 🎮         ║
-╚═══════════════════════════════════════╝
+╔═══════════════════════════════════════════════╗
+║                                               ║
+║     Thanks for visiting! 🦖                   ║
+║     Keep coding, keep gaming! 🎮              ║
+║                                               ║
+╚═══════════════════════════════════════════════╝
 ```
+
+<sub>💚 Made with passion by Dino Phat Dev</sub>
 
 </div>
